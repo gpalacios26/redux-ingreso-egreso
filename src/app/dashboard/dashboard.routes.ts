@@ -9,3 +9,4 @@ export const dashboardRoutes: Routes = [
   { path: 'ingreso-egreso', component: IngresoEgresoComponent },
   { path: 'detalle', component: DetalleComponent },
 ];
+
